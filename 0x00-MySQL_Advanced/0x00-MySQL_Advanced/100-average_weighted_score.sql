@@ -13,3 +13,4 @@ BEGIN
     where users.id = user_id;
 END $$
 DELIMITER ;
+
